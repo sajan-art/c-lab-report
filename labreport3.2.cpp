@@ -15,8 +15,15 @@ class account
     void display()
     {
         cout<<"\n Account Details: "<< endl;
-          cout<<"\n Account Number: "<<accountnumber<< endl;
-            cout<<"Balance: "<<balance<< endl;
+        cout<<"\n Account Number: "<<accountnumber<< endl;
+        cout<<"Balance: "<<balance<< endl;
 
     }
 };
+int main()
+{
+    account a1;
+    a1.inatialize(101,50000);
+    a1.display();
+    return 0;
+}
