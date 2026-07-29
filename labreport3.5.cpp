@@ -1,4 +1,4 @@
-// 
+// wap in c++ to demonstrate the use of constructor and deconstructor. Create a class student that displayes the message when an object is created using a constructor and when it is destroyed using a deconstructor.
 #include<iostream>
 using namespace std;
 class student{

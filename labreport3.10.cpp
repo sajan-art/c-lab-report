@@ -1,0 +1,1 @@
+// Write a C++ program to create a class Library containing book details. Use constructors for initialization destructor for object destruction, and member functions defined outside the class to display the details.
